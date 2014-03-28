@@ -1,4 +1,4 @@
-
+#! /usr/bin/env python
 
 contents = ['Hydrogen', 'Helium', 'Neon', 'Argon', 'Xenon', 'Radon', 'Lead']
 corridor = ['up', 'left', 'forward', 'back', 'right', 'down']
